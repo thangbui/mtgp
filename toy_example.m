@@ -18,7 +18,7 @@ randn('state',20);
 PLOT_DATA       = 1;
 covfunc_x       = {'covSEard'};
 M               = 3;    % Number of tasks
-D               = 2;    % Dimensionality of input spacce
+D               = 1;    % Dimensionality of input spacce
 irank           = M;    % rank for Kf (1, ... M). irank=M -> Full rank
 
 

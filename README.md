@@ -1,3 +1,11 @@
+
+This is a fork of Edwin Bonilla's Multi-task GP regression, modified so that it works with latest version of the GPML toolbox.
+
+-Thang.
+
+
+
+
 # Multi-task Gaussian process (MTGP)
 **Implements the multi-task model of Bonilla et al [1]**
 

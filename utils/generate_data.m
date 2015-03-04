@@ -23,8 +23,8 @@ function [x, Y, xtrain, ytrain, ind_kf_train, ind_kx_train, nx] = ...
 % Edwin V. Bonilla
 
 
-rho      = 0.8;    % Correlations between problems
-sigma_2n = 0.0001; % Noise variance
+rho      = 0.5;    % Correlations between problems
+sigma_2n = 0.01; % Noise variance
 
 
 %% Input Point
